@@ -3,10 +3,10 @@
 Conducted an in-depth student performance analysis using Python libraries such as pandas, numpy, matplotlib, and seaborn. This project provides valuable insights into the impact of demographic factors on academic outcomes, leveraging comprehensive data exploration and visualization techniques.
 ---
 Libraries used:
--Numpy
--Pandas
--Matplotlib
--Seaborn
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
 ---
 ![image](https://github.com/user-attachments/assets/d080bf71-a1bb-4245-9d55-1a855d6173c0)
 ---
